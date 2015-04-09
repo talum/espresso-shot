@@ -1,1 +1,3 @@
 puts "I LOVE COFFEE."
+
+puts "I ALSO LOVE LATTES."
